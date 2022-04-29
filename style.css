@@ -2,3 +2,18 @@ body{
     margin: 0;
     font-family: 'Exo 2', sans-serif;
 }
+
+.one{
+    background-image: url(banner.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.one{
+    color: aliceblue;
+padding-top: 50px;
+}
+img{
+    width: 100%;
+}
+
